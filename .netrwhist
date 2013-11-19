@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/mnt/hgfs/Work/servers/drupal-7.23/modules'
+let g:netrw_dirhist_2='/mnt/hgfs/Work/script/report_django/report_django'
+let g:netrw_dirhist_3='/etc/apache2/sites-enabled'
+let g:netrw_dirhist_4='/home/longhengyu/.vim'
